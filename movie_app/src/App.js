@@ -1,7 +1,7 @@
 import React from 'react';
 import logo, { ReactComponent } from './logo.svg';
 import './App.css';
-import Movie from './Movie.js';
+import Movie from "./Movie.1";
 
 class App extends React.Component {
   state = {
